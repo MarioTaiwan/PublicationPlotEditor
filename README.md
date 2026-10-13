@@ -13,6 +13,11 @@ PublicationPlotEditor
 
 Designed for MATLAB R2021a+; actual MATLAB/CorelDRAW execution and EMF import cannot be tested in this build environment.
 
+This is designed for Excel: Make a plot and use the Series information in the editor
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bcfcd9dc-73ae-4cd2-9816-6237e8d9822c" />
+
+
+
 ## Setting up a reusable font master
 
 1. In **Axes & ticks > X axis**, enter the required **Label font (pt)** and **Tick font (pt)**. Repeat in **Y axis**. The sizes are independent.
