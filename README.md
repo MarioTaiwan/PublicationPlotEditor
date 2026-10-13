@@ -1,6 +1,6 @@
-# Publication Plot Editor v0.7 (MATLAB)
+# Publication Plot Editor 
 
-Update to v0.6.1: the font sizes you enter in the X/Y **Axes & ticks** tabs and four independent CorelDRAW EMF font corrections are saved in the **master style**. Older master files and figure recipes remain readable.
+This program is designed to streamline the figure preparation process: Instead of having to edit every plot again, you just have to copy the plot from Excel and apply a Master style that handles colors, fonts, etc.
 
 ## Run
 
